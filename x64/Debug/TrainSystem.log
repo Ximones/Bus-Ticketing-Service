@@ -1,0 +1,4 @@
+﻿  booking.c
+C:\Users\deadb\source\repos\TrainSystem\booking.c(93,10): warning C4013: 'readSeatData' undefined; assuming extern returning int
+C:\Users\deadb\source\repos\TrainSystem\booking.c(127,23): warning C4028: formal parameter 1 different from declaration
+  TrainSystem.vcxproj -> C:\Users\deadb\source\repos\TrainSystem\x64\Debug\TrainSystem.exe
